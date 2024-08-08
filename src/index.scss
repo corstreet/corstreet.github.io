@@ -1,0 +1,52 @@
+:root {
+  --charcoal: #1a1818;
+  --offwhite: #ece7e1;
+  --coral: #cf8479;
+  --blue: #3e52ae;
+  --nude: #f1d5bf;
+  --red: #ff471a;
+  --pinkdust: #c69e91;
+  --white: white;
+  --black: black;
+  --new-red: orangered;
+  --pink: #f8c9e8;
+  --new-pink: #ff94c1;
+}
+
+html {
+  font-size: 10px;
+  height: -webkit-fill-available;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg-nude {
+  background-color: var(--offwhite);
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'), url(./assets/fonts/Montserrat/static/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Glass_Antiqua';
+  src: local('Glass_Antiqua'), url(./assets/fonts/Glass_Antiqua/Glass_Antiqua/GlassAntiqua-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Sorts';
+  src: local('Sorts_Mill_Goudy'), url(./assets/fonts/Sorts_Mill_Goudy/SortsMillGoudy-Regular.ttf) format('truetype');
+}
