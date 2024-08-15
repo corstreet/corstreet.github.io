@@ -8,8 +8,8 @@ function Navbar(props) {
     <div className='navbar'>
       {home ? (
         <div className="navbar--left">
-          <div className="navbar__item strike">LI</div>
-          <div className="navbar__item strike">GH</div>
+          <div className="navbar__item strike"><a href='https://www.linkedin.com/in/corstreet'>LI</a></div>
+          <div className="navbar__item strike"><a href='https://www.github.com/corstreet'>GH</a></div>
         </div>): (
         <div className="navbar--left">
           <Link to="/" className="navbar__item strike">HOME</Link>

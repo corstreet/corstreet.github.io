@@ -17,8 +17,8 @@ function Home() {
       </div>
       <div className="body-nav">
         <Link to="/work" className="body-nav__link">WORK</Link>
-        <div className="body-nav__link">ABOUT</div>
-        <div className="body-nav__link">CONTACT</div>
+        <div className="body-nav__link strike">ABOUT</div>
+        <a className="body-nav__link" href='mailto: corstreet@gmail.com'>CONTACT</a>
       </div>
     </div>
   );
