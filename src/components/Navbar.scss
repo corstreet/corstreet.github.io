@@ -28,6 +28,10 @@
     padding-right: 10px;
     text-decoration: none;
     color: inherit;
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
     &.strike:hover {
       text-decoration: line-through;
     }

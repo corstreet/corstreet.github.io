@@ -22,14 +22,19 @@
 }
 
 .skills-dropdown {
-
+  margin-top: 1.8rem;
+  margin-bottom: 3rem;
+  
   #skills {
     min-width: 20rem;
     min-height: 3rem;
     border-radius: 8px;
-    margin-top: 1.8rem;
-    margin-bottom: 3rem;
     padding-left: 1rem;
+  }
+
+  .alert-text {
+    color: red;
+    margin: 5px 0;
   }
 
 }

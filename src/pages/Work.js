@@ -43,6 +43,7 @@ function Work() {
         <div className="page-headline__subtext">Small collection of applications and websites to which I have contributed.</div>
       </div>
       <div className="skills-dropdown">
+      <div className='alert-text'>**Description pages and modals in progress</div>
         <select value={selectedCategory} onChange={e => filterSkills(e.target.value)} name="skills" id="skills">
           <option value="all">Show all</option>
 
@@ -59,7 +60,7 @@ function Work() {
           {
             matchedWork?.map((work, index) => {
               return (
-                <Link key={index} to="/" className="work__thumb">
+                <Link key={index} to="#" className="work__thumb">
                   <img src={work.thumbnailURL} alt={`Work from ${work.company}`} className="thumb-image" />
                   <div className="thumb-info">{work.company}</div>
                 </Link>

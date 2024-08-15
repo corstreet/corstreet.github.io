@@ -7,6 +7,9 @@ import KbHomeImage from '../assets/kbHomeImage.png'
 import OrganifiImage from '../assets/organifiImage.png'
 import itrvlImage from '../assets/irtvlImage.png'
 import HookitImage from '../assets/hookitImage.png'
+import MazdaUSAImage from '../assets/mazdausaImage.png'
+import VintageImage from '../assets/vintageImage.png'
+import RefersionImage from '../assets/refersionImage.png'
 
 export const workData = [
   {
@@ -21,19 +24,14 @@ export const workData = [
     ]
   },
   {
-    company: "Prep Sportswear: SQL Updates",
+    company: "MazdaUSA: Build & Price Tool",
     imageLocations: [],
-    thumbnailURL: PrepThumb,
+    thumbnailURL: MazdaUSAImage,
     tags: [
-      "reactjs",
-      "redux",
-      "PostgreSQL",
-      "Google Cloud",
-      "SQL",
-      "PHP",
+      "underscorejs",
       "Javascript",
       "HTML5/CSS3",
-      "eCommerce"
+      "ASP.NET",
     ]
   },
   {
@@ -45,6 +43,19 @@ export const workData = [
       "TypeScript",
       "Accessibility",
       "HTML5/CSS3"
+    ]
+  },
+  {
+    company: "Refersion: Web Application",
+    imageLocations: [],
+    thumbnailURL: RefersionImage,
+    tags: [
+      "AWS Lambda",
+      "Javascript",
+      "reactjs",
+      "redux",
+      "HTML5/CSS3",
+      "PHP"
     ]
   },
   {
@@ -91,6 +102,36 @@ export const workData = [
       "HTML5/CSS3",
       "ASP.NET",
       "C#"
+    ]
+  },
+  {
+    company: "Prep Sportswear: SQL Updates",
+    imageLocations: [],
+    thumbnailURL: PrepThumb,
+    tags: [
+      "reactjs",
+      "redux",
+      "PostgreSQL",
+      "Google Cloud",
+      "PHP",
+      "Javascript",
+      "HTML5/CSS3",
+      "eCommerce"
+    ]
+  },
+  {
+    company: "Vintage Brand: Product Sort",
+    imageLocations: [],
+    thumbnailURL: VintageImage,
+    tags: [
+      "Google Cloud",
+      "Javascript",
+      "reactjs",
+      "redux",
+      "HTML5/CSS3",
+      "eCommerce",
+      "PostgreSQL",
+      "PHP"
     ]
   },
 ]
