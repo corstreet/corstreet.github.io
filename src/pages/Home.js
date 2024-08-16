@@ -1,6 +1,7 @@
 import './Home.scss';
 import Navbar from '../components/Navbar';
 import { Link } from 'react-router-dom';
+import Resume from '../resume_2024.pdf'
 
 function Home() {
   return (
@@ -17,7 +18,7 @@ function Home() {
       </div>
       <div className="body-nav">
         <Link to="/work" className="body-nav__link">WORK</Link>
-        <div className="body-nav__link strike">ABOUT</div>
+        <a href={Resume} className="body-nav__link">ABOUT</a>
         <a className="body-nav__link" href='mailto: corstreet@gmail.com'>CONTACT</a>
       </div>
     </div>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.76cc38d0.css",
-    "main.js": "/static/js/main.cf42ef85.js",
+    "main.css": "/static/css/main.3e3e0ee5.css",
+    "main.js": "/static/js/main.8e03e664.js",
     "static/media/appletvgif.gif": "/static/media/appletvgif.f4600d5235ffbf5d51d2.gif",
     "static/media/todayatapple.gif": "/static/media/todayatapple.bb7f1d28fc951edb0839.gif",
     "static/media/prepsportswearthumb.png": "/static/media/prepsportswearthumb.4d497791c30d24e1d2fd.png",
@@ -9,17 +9,21 @@
     "static/media/appletodayimage.png": "/static/media/appletodayimage.d1161927061a7135b28a.png",
     "static/media/appletvimage.png": "/static/media/appletvimage.72f1f1550748da465c25.png",
     "static/media/kbHomeImage.png": "/static/media/kbHomeImage.e8cc5dccba9bc0a7a478.png",
+    "static/media/vintageImage.png": "/static/media/vintageImage.bf6390c92b843d5a3695.png",
     "static/media/organifiImage.png": "/static/media/organifiImage.73f97d2be78fe6671266.png",
     "static/media/hookitImage.png": "/static/media/hookitImage.7ebd1c1fc592d4e0942c.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/mazdausaImage.png": "/static/media/mazdausaImage.30e2cbbb991f1fe992aa.png",
+    "static/media/refersionImage.png": "/static/media/refersionImage.e367e0b322b6a9ec475a.png",
     "static/media/SortsMillGoudy-Regular.ttf": "/static/media/SortsMillGoudy-Regular.63480b60449721659684.ttf",
     "static/media/GlassAntiqua-Regular.ttf": "/static/media/GlassAntiqua-Regular.9e19be835f81ad9fdfdb.ttf",
+    "static/media/resume_2024.pdf": "/static/media/resume_2024.352ec3aa98898828dbcb.pdf",
     "index.html": "/index.html",
-    "main.76cc38d0.css.map": "/static/css/main.76cc38d0.css.map",
-    "main.cf42ef85.js.map": "/static/js/main.cf42ef85.js.map"
+    "main.3e3e0ee5.css.map": "/static/css/main.3e3e0ee5.css.map",
+    "main.8e03e664.js.map": "/static/js/main.8e03e664.js.map"
   },
   "entrypoints": [
-    "static/css/main.76cc38d0.css",
-    "static/js/main.cf42ef85.js"
+    "static/css/main.3e3e0ee5.css",
+    "static/js/main.8e03e664.js"
   ]
 }
